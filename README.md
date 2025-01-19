@@ -34,8 +34,13 @@ Features
 Screenshots
 -----------
 - **Login Page**: Visual of the login page.
-- **Dashboard**: Visual of the main dashboard.
+  ![](https://github.com/user-attachments/assets/0fda30eb-63f6-4c68-bdf8-c2e8f5f14947)
+
 - **Analytics**: Visual of the analytics page with interactive charts.
+  ![](https://github.com/user-attachments/assets/c3ae809d-7d11-4572-a7b3-4f667b387554)
+
+- **app look** :
+  ![Image](https://github.com/user-attachments/assets/e9737b4d-be4a-47e0-a421-17f904671704)
 
 Installation
 ------------
