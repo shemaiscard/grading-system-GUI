@@ -1,9 +1,6 @@
 streamlit
 pandas
 numpy
-sqlite3
-hashlib
-datetime
 plotly
 fpdf
 openpyxl
