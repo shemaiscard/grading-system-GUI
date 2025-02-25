@@ -1,5 +1,9 @@
-SQLite
-Pandas
-Plotly
-FPDF
-OpenPyXL
+streamlit
+pandas
+numpy
+sqlite3
+hashlib
+datetime
+plotly
+fpdf
+openpyxl
