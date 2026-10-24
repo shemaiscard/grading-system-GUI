@@ -231,7 +231,7 @@ class GradeManager:
             df = pd.DataFrame(marks, columns=['Subject 1', 'Subject 2', 'Subject 3', 'Subject 4', 'Subject 5'])
             st.write("### Marks Distribution")
             fig = px.histogram(df, barmode='group')
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
 # Main App
 def main():
